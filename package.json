@@ -1,0 +1,34 @@
+{
+  "name": "webpack-chunk-example",
+  "version": "1.0.0",
+  "description": "chunking arround",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "^15.4.1",
+    "react": "^15.4.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.20.0",
+    "babel-loader": "^6.2.9",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-hot-loader": "^1.3.1",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianIsrael/webpack-chunk-example.git"
+  },
+  "author": "Julian - Gregorio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JulianIsrael/webpack-chunk-example/issues"
+  },
+  "homepage": "https://github.com/JulianIsrael/webpack-chunk-example#readme"
+}

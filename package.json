@@ -1,5 +1,5 @@
 {
-  "name": "Dynamic Loading Webpack 2 - Chunks",
+  "name": "webpack-chunk-example",
   "version": "1.0.0",
   "description": "Dynamic Chunk Loading",
   "main": "index.js",

@@ -1,7 +1,6 @@
 {
   "name": "Dynamic Loading Webpack 2 - Chunks",
   "version": "1.0.0",
-  "private": true,
   "description": "Dynamic Chunk Loading",
   "main": "index.js",
   "scripts": {
